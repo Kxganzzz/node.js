@@ -1135,7 +1135,7 @@ else if(menusimpel = true){
         stod = `${sender}`
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
-       menu = `┌───「 \`\`\`Kurz Bot Assistan\`\`\` 」
+       menu = `┌───「 \`\`\`Skyz Bot Assistan\`\`\` 」
 │
 🏴‍☠️ _Creator : *Yudiganzz* 
 🏴‍☠️ _Battery : ${baterai.battery}_
